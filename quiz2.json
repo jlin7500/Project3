@@ -1,0 +1,212 @@
+[
+  {
+    "questionType": "multiple_choice",
+    "questionInfo": "Which of the following is/are the levels of implementation of data structure?",
+    "correctAnswer": "All of the above",
+    "options": [
+      "Abstract level",
+      "Application level",
+      "Implementation level",
+      "All of the above"
+    ],
+    "reason":"All are levels that are apart of data stuctures"
+  },
+  {
+    "questionType": "multiple_list",
+    "questionInfo": "……………….. level is where the model becomes compatible executable code.",
+    "correctAnswer": "Implementation level",
+    "answerFieldId": "answer_to_question",
+    "options": [
+      "Application level",
+      "Implementation level",
+      "Abstract level",
+      "Error"
+    ],
+    "reason":"Implementation level is where the model becomes compatible executable code."
+  },
+  {
+    "questionType": "multiple_choice",
+    "questionInfo": "…………… is not the component of data structure.",
+    "correctAnswer": "None of the above",
+    "options": [
+      "Virus",
+      "Storage Structures",
+      "Algorithms",
+      "None of the above"
+    ],
+    "reason":"All are consider to be a data stucture"
+  },
+  {
+    "questionType": "true_false",
+    "questionInfo": "Python was the first programming language ever created?",
+    "correctAnswer": "False",
+    "options": [
+      "True",
+      "False"
+    ],
+    "reason": "Python was not the first programming language"
+  },  
+  {
+    "questionType": "true_false",
+    "questionInfo": "Method do need to be put into the main inorder to print its info",
+    "correctAnswer": "True",
+    "options": [
+      "True",
+      "False"
+    ],
+    "reason": "Methods must be put into the main for you to get a output if not there would be no output"
+  },
+  {
+    "questionType": "image_choices",
+    "questionInfo": "What is the java symbol?",
+    "correctAnswer": "https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg",
+    "options": [
+      "https://img.favpng.com/16/18/11/computer-icon-png-favpng-2Kvk5e4U2UQBFbim81zHkCPqF.jpg",
+      "https://as1.ftcdn.net/v2/jpg/02/46/64/08/500_F_246640889_VRmzLpjJEjacUtGJum4Ub4V7yfXE6KOR.jpg",
+      "https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg",
+      "https://cdn4.vectorstock.com/i/1000x1000/89/78/java-computer-symbol-vector-11238978.jpg"
+    ],
+    "reason": "Visit a java website where you will see their logo"
+  },
+  {
+    "questionType": "multiple_choice",
+    "questionInfo": "Which of the following is not the part of ADT description?",
+    "correctAnswer": "None of the above",
+    "options": [
+      "Data",
+      "Cold boot",
+      "Both choices",
+      "None of the above"
+    ],
+    "reason":"None are considered to be a ADT decription"
+  },
+  {
+    "questionType": "true_false",
+    "questionInfo": "A array doesnt have a fix list",
+    "correctAnswer": "False",
+    "options": [
+      "True",
+      "False"
+    ],
+    "reason": "Array is assign a fix list in the beginning of a program"
+  },
+  {
+    "questionType": "image_choices",
+    "questionInfo": "Which of these symbols is not dealing with computer science ",
+    "correctAnswer": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Biohazard_symbol.svg/2048px-Biohazard_symbol.svg.png",
+    "options": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Biohazard_symbol.svg/2048px-Biohazard_symbol.svg.png",
+      "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+      "https://1000logos.net/wp-content/uploads/2020/08/Python-Emblem.jpg",
+      "https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.jpg"
+    ],
+    "reason": "This symbol is for contamination not computer science"
+  },
+  {
+    "questionType": "text_input",
+    "questionInfo": " How are computer models tested in order to determine whether or not they are valid?",
+    "correctAnswer": "Computer models are tested by examining the model structure, i.e., the algorithms and relationship, to see how closely it corresponds to the actual system definition. ",
+    "answerFieldId": "answer_to_question",
+    "reason": "Computer models are tested by examining the model structure, i.e., the algorithms and relationship, to see how closely it corresponds to the actual system definition. If the model is an accurate representation of the actual system, it is considered to be valid. The person can use different validating techniques like resubstitution, hold-out, LOOCV, random subsampling, bootstrapping."
+  },
+  {
+    "questionType": "true_false",
+    "questionInfo": "Python is a type of programming language",
+    "correctAnswer": "True",
+    "options": [
+      "True",
+      "False"
+    ],
+    "reason":"Python is a programing language use for over 5 years"
+  },
+  {
+    "questionType": "multiple_choice",
+    "questionInfo": "Which among the following correctly defines the term cookie?",
+    "correctAnswer": "It is a message given to a web browser by a web server",
+    "options": [
+      "It is a message given to a web browser by a web server",
+      "It is a password stored by web server",
+      "It is virus that corrupts other web file",
+      "It is intentionally created deceptive message that collects user’s personal information"
+    ],
+    "reason": "The browser stores the message (i.e. cookie) in a text file."
+  },
+  {
+    "questionType": "multiple_choice",
+    "questionInfo": "Which is following is used to escape out of full screen",
+    "correctAnswer": " ESC",
+    "options": [
+      "F5",
+      "F11",
+      "F10",
+      "ESC"
+    ],
+    "reason": "To exit the full screen again need to press F11."
+  },
+  {
+    "questionType": "multiple_list",
+    "questionInfo": "Which is not considered a value syntax?",
+    "correctAnswer": "high",
+    "answerFieldId": "answer_to_question",
+    "options": [
+      "int",
+      "string",
+      "double",
+      "high"
+    ],
+    "reason":"high is not a type of value syntax"
+  },
+  {
+    "questionType": "text_input",
+    "questionInfo": "Is Eclipse a java programming software?",
+    "correctAnswer": "Yes ",
+    "answerFieldId": "answer_to_question",
+    "reason": "Eclipse is a java programming software that is used at St.johns"
+  },
+  {
+    "questionType": "true_false",
+    "questionInfo": "In Java you could use the same syntax as python",
+    "correctAnswer": "False",
+    "options": [
+      "True",
+      "False"
+    ],
+    "reason":"Python is a different programming language than java"
+  },
+  {
+    "questionType": "text_input",
+    "questionInfo": "What is a file?",
+    "correctAnswer": "A file is a named location which stores data or information permanently.",
+    "answerFieldId": "answer_to_question",
+    "reason":"A file is a named location which stores data or information permanently. A file is always stored inside a storage device using file name (e.g. STUDENT.MARKS). A file name normally has primary and secondary name separated by a “.”(DOT)."
+  },
+  {
+    "questionType": "multiple_choice",
+    "questionInfo": " Which is not a programming language",
+    "correctAnswer": " Space",
+    "options": [
+      " Java",
+      "Space",
+      "JavaScript",
+      "html"
+    ],
+    "reason": "Space is not consider to be a programming language"
+  },
+  {
+    "questionType": "text_input",
+    "questionInfo": " what is the syntax to import a scanner?",
+    "correctAnswer": "import java.util.scanner;",
+    "answerFieldId": "answer_to_question",
+    "reason": "This is the syntax to import a scanner import java.util.scanner;"
+  },
+  {
+    "questionType": "true_false",
+    "questioninfo": "Cs doesnt stands for computer science",
+    "correctAnswer": "False",
+    "options": [
+      "True",
+      "False"
+    ],
+    "reason":"Computer science was given the nickname cs"
+  }
+]
