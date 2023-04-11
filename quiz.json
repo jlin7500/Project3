@@ -2,14 +2,14 @@
   {
     "questionType": "multiple_choice",
     "questionInfo": "Which of the following computer language is used for artificial intelligence?",
-    "correctAnswer": "PROLOG",
+    "correctAnswer": "Python",
     "options": [
       "FORTRAN",
       "PROLOG",
       "C",
-      "COBOL"
+      "Python"
     ],
-    "reason":"Prolog is a general purpose logic programming language associated with artificial intelligence and computational linguistics"
+    "reason":"Python is widely used for artificial intelligence, with packages for several applications including General AI, Machine Learning, Natural Language Processing and Neural Networks."
   },
   {
     "questionType": "multiple_list",
@@ -19,14 +19,14 @@
     "options": [
       "0.333333",
       "0.33",
-      " 0.333333:-2",
+      "0.333333:-2",
       "Error"
     ],
     "reason":".2 defines the precision of the floating point number."
   },
   {
     "questionType": "multiple_choice",
-    "questionInfo": "The malware that fetches the personal data such as bank details, credit/card details, password, etc. from remotely located computers is known as …",
+    "questionInfo": "What is the name of the malware that fetches the personal data such as bank details, credit/card details, password, etc, from remotely located computers",
     "correctAnswer": "Trojans",
     "options": [
       "Virus",
@@ -38,7 +38,7 @@
   },
   {
     "questionType": "true_false",
-    "questionInfo": "Is the correct syntax for printing System.out.ln()",
+    "questionInfo": "Is the correct syntax for printing out a value and skipping to the next line, System.out.ln() for Java",
     "correctAnswer": "False",
     "options": [
       "True",
@@ -82,13 +82,13 @@
   },
   {
     "questionType": "true_false",
-    "questionInfo": "A array doesnt have a fix list",
+    "questionInfo": "A array doesn't have a fix amount of values",
     "correctAnswer": "False",
     "options": [
       "True",
       "False"
     ],
-    "reason": "Array is assign a fix list in the beginning of a program"
+    "reason": "Array is assign a fixed amount of values in the beginning of a program"
   },
   {
     "questionType": "image_choices",
@@ -117,7 +117,7 @@
       "True",
       "False"
     ],
-    "reason":"Java is a program that is used for programing for over 30 years"
+    "reason":"Java is a program that is used for programming for over 30 years"
   },
   {
     "questionType": "multiple_choice",
@@ -133,7 +133,7 @@
   },
   {
     "questionType": "multiple_choice",
-    "questionInfo": "Which among the following is the shortcut key to full screen the active window (basically web browser) in your computer system?",
+    "questionInfo": "Which of the following keys fullscreen your current browser page",
     "correctAnswer": " F11",
     "options": [
       "F5",
@@ -165,13 +165,13 @@
   },
   {
     "questionType": "true_false",
-    "questionInfo": "Python is the same a java in programming language",
+    "questionInfo": "Java and JavaScript are related",
     "correctAnswer": "False",
     "options": [
       "True",
       "False"
     ],
-    "reason":"Python is a different programming language than java"
+    "reason":"They are complete different languages"
   },
   {
     "questionType": "text_input",
@@ -185,12 +185,12 @@
     "questionInfo": " The ‘P’ in CPU stands for …",
     "correctAnswer": " Process",
     "options": [
-      " Process",
+      "Process",
       "Program",
       "Performance",
       "Plan"
     ],
-    "reason": "CPU stands for central process unit"
+    "reason": "CPU stands for central processing unit"
   },
   {
     "questionType": "text_input",
@@ -207,6 +207,6 @@
       "True",
       "False"
     ],
-    "reason":"Computer science was given the nickname cs"
+    "reason":"Computer science was given the acronym cs"
   }
 ]
