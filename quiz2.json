@@ -26,7 +26,7 @@
   },
   {
     "questionType": "multiple_choice",
-    "questionInfo": "…………… is not the component of data structure.",
+    "questionInfo": "…………… is not a component of data structure.",
     "correctAnswer": "None of the above",
     "options": [
       "Virus",
@@ -48,13 +48,13 @@
   },  
   {
     "questionType": "true_false",
-    "questionInfo": "Method do need to be put into the main inorder to print its info",
+    "questionInfo": "Methods do need to be put into the main in order to print its info",
     "correctAnswer": "True",
     "options": [
       "True",
       "False"
     ],
-    "reason": "Methods must be put into the main for you to get a output if not there would be no output"
+    "reason": "Methods must be put into the main for you to get a output, if not the method would be unused."
   },
   {
     "questionType": "image_choices",
@@ -185,7 +185,7 @@
     "questionInfo": " Which is not a programming language",
     "correctAnswer": " Space",
     "options": [
-      " Java",
+      "Java",
       "Space",
       "JavaScript",
       "html"
@@ -194,14 +194,14 @@
   },
   {
     "questionType": "text_input",
-    "questionInfo": " what is the syntax to import a scanner?",
+    "questionInfo": "what is the syntax to import a scanner in Java?",
     "correctAnswer": "import java.util.scanner;",
     "answerFieldId": "answer_to_question",
     "reason": "This is the syntax to import a scanner import java.util.scanner;"
   },
   {
     "questionType": "true_false",
-    "questioninfo": "Cs doesnt stands for computer science",
+    "questioninfo": "Cs doesn't stands for computer science",
     "correctAnswer": "False",
     "options": [
       "True",
